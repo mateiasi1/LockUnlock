@@ -1,0 +1,39 @@
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.exe
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.deps.json
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.runtimeconfig.json
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.runtimeconfig.dev.json
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.pdb
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\AKSoftware.WebApi.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\Nancy.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfoInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfo.cs
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csproj.CoreCompileInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csproj.CopyComplete
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.dll
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.pdb
+C:\Users\d.s.mateiasi\source\repos\Documents Editor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.genruntimeconfig.cache
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.exe
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.deps.json
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.runtimeconfig.json
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.runtimeconfig.dev.json
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\DocumentsEditor.pdb
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\AKSoftware.WebApi.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\Nancy.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csprojAssemblyReference.cache
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfoInputs.cache
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfo.cs
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csproj.CoreCompileInputs.cache
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csproj.CopyComplete
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.dll
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.pdb
+C:\Users\d.s.mateiasi\source\repos\DocumentsEditor\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.genruntimeconfig.cache
