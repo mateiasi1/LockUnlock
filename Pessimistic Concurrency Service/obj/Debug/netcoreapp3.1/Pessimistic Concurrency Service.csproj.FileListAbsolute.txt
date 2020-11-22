@@ -1,0 +1,13 @@
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.exe
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.deps.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.runtimeconfig.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.runtimeconfig.dev.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.dll
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\Pessimistic Concurrency Service.pdb
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.AssemblyInfoInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.AssemblyInfo.cs
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.dll
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.pdb
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.csprojAssemblyReference.cache
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.csproj.CoreCompileInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\Pessimistic Concurrency Service.genruntimeconfig.cache
