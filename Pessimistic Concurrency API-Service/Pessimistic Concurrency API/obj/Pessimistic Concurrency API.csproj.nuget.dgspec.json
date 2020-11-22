@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj": {}
+    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj": {
+    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
+        "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
         "projectName": "Pessimistic Concurrency API",
-        "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
+        "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
         "packagesPath": "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency API\\obj\\",
+        "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj": {
-                "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj"
+              "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj": {
+                "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj": {
+    "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
+        "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
         "projectName": "Pessimistic Concurrency Service",
-        "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
+        "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
         "packagesPath": "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\obj\\",
+        "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

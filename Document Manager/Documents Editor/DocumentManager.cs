@@ -25,13 +25,13 @@ namespace Documents_Editor
         {
             baseDocumentsManager = baseDocuments;
         }
-        public void Write(BaseDocument baseDocument)
+        public async Task WriteAsync(BaseDocument baseDocument)
         {
-            Lock(baseDocument);
+            await LockAsync(baseDocument);
         }
-        public void FinishWrite(BaseDocument baseDocument)
+        public async Task FinishWrite(BaseDocument baseDocument)
         {
-            Unlock(baseDocument);
+            await UnlockAsync(baseDocument);
         }
         public void Check()
         {
@@ -43,20 +43,22 @@ namespace Documents_Editor
                 await GetAllAsync();
             }, null, startTimeSpan, periodTimeSpan);
         }
-        static void Lock(BaseDocument baseDocument)
-    {
-        requestObject.ActionType = ActionType.Lock;
-        requestObject.LockedBy = 1;
-        requestObject.RowId = baseDocument.Id;
+        public static async Task LockAsync(BaseDocument baseDocument)
+        {
+            requestObject.ActionType = ActionType.Lock;
+            requestObject.LockedBy = 1;
+            requestObject.RowId = baseDocument.Id;
 
             var json = JsonConvert.SerializeObject(requestObject);
             var data = new StringContent(json, Encoding.UTF8, "application/json");
 
             using var client = new HttpClient();
 
-            var response = client.PostAsync(lockRoute, data);
+            var response = await client.PostAsync(lockRoute, data);
+            bool result = Convert.ToBoolean(response.Content.ReadAsStringAsync().Result);
+            Console.WriteLine(result);
         }
-        static void Unlock(BaseDocument baseDocument)
+        static async Task UnlockAsync(BaseDocument baseDocument)
         {
             requestObject.ActionType = ActionType.Unlock;
             requestObject.LockedBy = 1;
@@ -68,7 +70,9 @@ namespace Documents_Editor
 
             using var client = new HttpClient();
 
-            var response = client.PostAsync(unlockRoute, data);
+            var response = await client.PostAsync(unlockRoute, data);
+            bool result = Convert.ToBoolean(response.Content.ReadAsStringAsync().Result);
+            Console.WriteLine(result);
         }
 
 
@@ -87,9 +91,9 @@ namespace Documents_Editor
                 JsonSerializer serializer = new JsonSerializer();
                 RequestObject requestObject = new RequestObject();
                 var list = JsonConvert.DeserializeObject<List<RequestObject>>(responseString);
-                 foreach (var item in list)
+                foreach (var item in list)
                 {
-                    Console.WriteLine("Item ID: "+item.Id + " LockedBy: " + item.LockedBy + " RowId: " + item.RowId + " StartDate: " + item.StartDate + " EndDate: " + item.EndDate);
+                    Console.WriteLine("Item ID: " + item.Id + " LockedBy: " + item.LockedBy + " RowId: " + item.RowId + " StartDate: " + item.StartDate + " EndDate: " + item.EndDate);
                 }
             }
 

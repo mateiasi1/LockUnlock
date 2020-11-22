@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgtaY1L/UqwPILZkrgggKGHfyv/P1UhrLq0j0REBjUfg1pH/Py5RlLPQckSyyMlC4jtlnFO8dv/GnDo4yAKTow==",
+  "dgSpecHash": "v5PcDbC+J+ARoEyI2nTfe70JjmfW8oeR3QX8KTOG5pgvy3jlShnqlgjii+BP5bxzOKxJ9UL0162Rm047P6uiag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d.s.mateiasi\\source\\repos\\DocumentsEditor\\Documents Editor\\DocumentsEditor.csproj",
+  "projectFilePath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Document Manager\\Documents Editor\\DocumentsEditor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\aksoftware.webapi\\3.0.1\\aksoftware.webapi.3.0.1.nupkg.sha512",
     "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

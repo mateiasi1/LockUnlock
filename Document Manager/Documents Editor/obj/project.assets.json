@@ -5500,11 +5500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\DocumentsEditor\\Documents Editor\\DocumentsEditor.csproj",
+      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Document Manager\\Documents Editor\\DocumentsEditor.csproj",
       "projectName": "DocumentsEditor",
-      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\DocumentsEditor\\Documents Editor\\DocumentsEditor.csproj",
+      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Document Manager\\Documents Editor\\DocumentsEditor.csproj",
       "packagesPath": "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\DocumentsEditor\\Documents Editor\\obj\\",
+      "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Document Manager\\Documents Editor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

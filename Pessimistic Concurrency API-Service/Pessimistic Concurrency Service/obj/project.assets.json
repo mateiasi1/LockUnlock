@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
+      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
       "projectName": "Pessimistic Concurrency Service",
-      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
+      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
       "packagesPath": "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service\\obj\\",
+      "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
