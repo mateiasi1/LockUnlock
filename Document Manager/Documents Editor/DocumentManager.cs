@@ -33,16 +33,7 @@ namespace Documents_Editor
         {
             await UnlockAsync(baseDocument);
         }
-        public void Check()
-        {
-            var startTimeSpan = TimeSpan.Zero;
-            var periodTimeSpan = TimeSpan.FromMinutes(1);
 
-            var timer = new System.Threading.Timer(async (e) =>
-            {
-                await GetAllAsync();
-            }, null, startTimeSpan, periodTimeSpan);
-        }
         public static async Task LockAsync(BaseDocument baseDocument)
         {
             requestObject.ActionType = ActionType.Lock;
@@ -76,7 +67,7 @@ namespace Documents_Editor
         }
 
 
-        private async Task GetAllAsync()
+        public void GetAll()
         {
             List<RequestObject> lockedObjects = new List<RequestObject>();
             string responseString = string.Empty;

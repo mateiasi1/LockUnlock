@@ -59,7 +59,7 @@ namespace Pessimistic_Concurrency_API.Controllers
             {
                 return Ok(res);
             }
-            return Ok("No history available!");
+            return Ok(new List<BaseObject>());
         }
     }
 }
