@@ -49,7 +49,6 @@ C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Do
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\bin\Debug\netcoreapp3.1\Nancy.dll
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csprojAssemblyReference.cache
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfoInputs.cache
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.AssemblyInfo.cs
 C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Document Manager\Documents Editor\obj\Debug\netcoreapp3.1\DocumentsEditor.csproj.CoreCompileInputs.cache

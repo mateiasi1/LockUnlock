@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Pessimistic Concurrency Service\Pessimistic Concurrency Service.csproj" />
+    <ProjectReference Include="..\Pessimistic Concurrency Service\PessimisticConcurrencyService.csproj" />
   </ItemGroup>
 
 

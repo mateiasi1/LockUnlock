@@ -18,7 +18,6 @@ namespace Pessimistic_Concurrency_Service.Managers
         public static Status Status = Status.Unchanged;
         public LockUnlockManager()
         {
-           
         }
 
         public List<BaseObject> GetHistory()

@@ -1,0 +1,12 @@
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.exe
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.deps.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.runtimeconfig.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.runtimeconfig.dev.json
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.dll
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\bin\Debug\netcoreapp3.1\PessimisticConcurrencyService.pdb
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.AssemblyInfoInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.AssemblyInfo.cs
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.csproj.CoreCompileInputs.cache
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.dll
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.pdb
+C:\Users\d.s.mateiasi\source\repos\Pessimistic Concurrency Service\New folder\Pessimistic Concurrency API-Service\Pessimistic Concurrency Service\obj\Debug\netcoreapp3.1\PessimisticConcurrencyService.genruntimeconfig.cache

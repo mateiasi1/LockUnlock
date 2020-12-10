@@ -16,20 +16,29 @@ namespace Pessimistic_Concurrency_API.Controllers
     public class LockUnlockController : ControllerBase
     {
         private readonly ILockUnlockManager _lockUnlockManager;
+        private readonly ISystemManager _systemManager;
+        private static bool _initialzed = false;
 
-        public LockUnlockController(ILockUnlockManager lockUnlockManager)
-        {
+        public LockUnlockController(ILockUnlockManager lockUnlockManager, ISystemManager systemManager)
+       {
             _lockUnlockManager = lockUnlockManager;
+            if (!_initialzed)
+            {
+                _systemManager = systemManager;
+                _systemManager.Check();
+            }
         }
 
         [HttpPost("lock")]
-        public async Task<IActionResult> Lock([FromBody]BaseObject baseObject)
+        public async Task<IActionResult> Lock([FromBody] BaseObject baseObject)
         {
+            _initialzed = true;
             if (baseObject.ActionType == ActionType.Lock)
             {
-                    var res = await Task.Run(() => _lockUnlockManager.Lock(baseObject));
-                    return Ok(res);
-                
+                var res = await Task.Run(() => _lockUnlockManager.Lock(baseObject));
+
+                return Ok(res);
+
             }
             else
             {
@@ -38,8 +47,9 @@ namespace Pessimistic_Concurrency_API.Controllers
         }
 
         [HttpPost("unlock")]
-        public async Task<IActionResult> UnLock([FromBody]BaseObject baseObject)
+        public async Task<IActionResult> UnLock([FromBody] BaseObject baseObject)
         {
+            _initialzed = true;
             if (baseObject.ActionType == ActionType.Unlock)
             {
                 var res = await Task.Run(() => _lockUnlockManager.Unlock(baseObject));
@@ -54,8 +64,9 @@ namespace Pessimistic_Concurrency_API.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
+            _initialzed = true;
             var res = _lockUnlockManager.GetAll();
-            if (res.Count!=0)
+            if (res.Count != 0)
             {
                 return Ok(res);
             }

@@ -29,6 +29,7 @@ namespace Pessimistic_Concurrency_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<ILockUnlockManager, LockUnlockManager>();
+            services.AddScoped<ISystemManager, SystemManager>();
             services.AddControllers();
         }
 

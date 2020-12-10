@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Pessimistic Concurrency Service/1.0.0": {
+      "PessimisticConcurrencyService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Pessimistic Concurrency Service.dll": {}
+          "bin/placeholder/PessimisticConcurrencyService.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Pessimistic Concurrency Service.dll": {}
+          "bin/placeholder/PessimisticConcurrencyService.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Pessimistic Concurrency Service/1.0.0": {
+    "PessimisticConcurrencyService/1.0.0": {
       "type": "project",
-      "path": "../Pessimistic Concurrency Service/Pessimistic Concurrency Service.csproj",
-      "msbuildProject": "../Pessimistic Concurrency Service/Pessimistic Concurrency Service.csproj"
+      "path": "../Pessimistic Concurrency Service/PessimisticConcurrencyService.csproj",
+      "msbuildProject": "../Pessimistic Concurrency Service/PessimisticConcurrencyService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Pessimistic Concurrency Service >= 1.0.0"
+      "PessimisticConcurrencyService >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
-      "projectName": "Pessimistic Concurrency API",
-      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\Pessimistic Concurrency API.csproj",
+      "projectUniqueName": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\PessimisticConcurrencyAPI.csproj",
+      "projectName": "PessimisticConcurrencyAPI",
+      "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\PessimisticConcurrencyAPI.csproj",
       "packagesPath": "C:\\Users\\d.s.mateiasi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency API\\obj\\",
       "projectStyle": "PackageReference",
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj": {
-              "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj"
+            "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\PessimisticConcurrencyService.csproj": {
+              "projectPath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\PessimisticConcurrencyService.csproj"
             }
           }
         }

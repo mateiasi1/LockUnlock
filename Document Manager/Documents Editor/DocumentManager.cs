@@ -17,21 +17,31 @@ namespace Documents_Editor
         public List<BaseDocument> baseDocumentsManager = new List<BaseDocument>();
         private static readonly HttpClient _Client = new HttpClient();
         private static JavaScriptSerializer _Serializer = new JavaScriptSerializer();
-        static string lockRoute = "https://localhost:44358/LockUnlock/lock";
-        static string unlockRoute = "https://localhost:44358/LockUnlock/unlock";
-        static string getAll = "https://localhost:44358/LockUnlock";
+        static string lockRoute = "http://localhost:5000/LockUnlock/lock";
+        static string unlockRoute = "http://localhost:5000/LockUnlock/unlock";
+        static string getAll = "http://localhost:5000/LockUnlock";
         static RequestObject requestObject = new RequestObject();
         public DocumentManager(List<BaseDocument> baseDocuments)
         {
             baseDocumentsManager = baseDocuments;
         }
-        public async Task WriteAsync(BaseDocument baseDocument)
+        public void Write(BaseDocument baseDocument)
         {
-            await LockAsync(baseDocument);
+            IAsyncResult ar = LockAsync(baseDocument);
+            if (!ar.IsCompleted)
+            {
+                ar.AsyncWaitHandle.WaitOne()
+;
+            }
         }
-        public async Task FinishWrite(BaseDocument baseDocument)
+        public void FinishWrite(BaseDocument baseDocument)
         {
-            await UnlockAsync(baseDocument);
+            IAsyncResult ar = UnlockAsync(baseDocument);
+            if (!ar.IsCompleted)
+            {
+                ar.AsyncWaitHandle.WaitOne()
+;
+            }
         }
 
         public static async Task LockAsync(BaseDocument baseDocument)
@@ -44,7 +54,7 @@ namespace Documents_Editor
             var data = new StringContent(json, Encoding.UTF8, "application/json");
 
             using var client = new HttpClient();
-
+            //client.Timeout = TimeSpan.FromMinutes(5);
             var response = await client.PostAsync(lockRoute, data);
             bool result = Convert.ToBoolean(response.Content.ReadAsStringAsync().Result);
             Console.WriteLine(result);
@@ -60,7 +70,7 @@ namespace Documents_Editor
             var data = new StringContent(json, Encoding.UTF8, "application/json");
 
             using var client = new HttpClient();
-
+            //client.Timeout = TimeSpan.FromMinutes(5);
             var response = await client.PostAsync(unlockRoute, data);
             bool result = Convert.ToBoolean(response.Content.ReadAsStringAsync().Result);
             Console.WriteLine(result);

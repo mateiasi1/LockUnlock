@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIFlozTbnfvgYdIlI6mhbT4EpL8dJzo3nAjqLVnNa4PwLvTayFiLXJTZEHjH6sap3JmL3x6cqvK0oKlMT5fSXQ==",
+  "dgSpecHash": "dJuWhUi9jHdYVbrjS3i00q5mn18vuYyknP3lf08F44FsKpq8wyq83lpVcC8WOfW/k0C+M6vwMFRqhoYnGqUvFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\Pessimistic Concurrency Service.csproj",
+  "projectFilePath": "C:\\Users\\d.s.mateiasi\\source\\repos\\Pessimistic Concurrency Service\\New folder\\Pessimistic Concurrency API-Service\\Pessimistic Concurrency Service\\PessimisticConcurrencyService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
